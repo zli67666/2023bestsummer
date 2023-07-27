@@ -1,2 +1,9 @@
-import numpy as np
-x = np.array([1,2,3])
+ls
+pwd
+cd /123
+mkdir new
+rm new
+mkdir old
+mkdir new2
+mv old new2 
+touch 456
